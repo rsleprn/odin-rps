@@ -1,1 +1,1 @@
-# odin-rps
+# Odin's Rock-Paper-Shotgun
